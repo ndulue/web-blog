@@ -1,0 +1,79 @@
+.navbar{
+    border-radius: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+.navbar-left a{
+    color: white;
+    font-size: 16px;
+}
+.navbar-right i{
+    color: white;
+}
+#admincont a{
+    color: white;
+}
+#admincont a span{
+    color: rgb(0, 140, 255);
+}
+.navbar-right b{
+    color: white;
+}
+.navbar-right b span{
+    color: rgb(0, 140, 255);
+}
+
+.nav li a{
+    background-color: rgb(0, 108, 198);
+    color: white;
+}
+
+.nav li a:hover{
+    background-color: white;
+    color: rgb(0, 108, 198);
+}
+.nav li a:focus{
+    background-color: white;
+    color: blue;
+}
+
+#adpanel{
+    padding : 10px;
+    border: 2px solid white;
+    background-color: white;
+}
+
+#bap{
+    background-image: url(../img/hotel.jpg);
+}
+
+.table-firm{
+    width: auto;
+    margin: 0 auto;   
+}
+
+#form{
+    padding-top: 250px;
+}
+
+#ana{
+    color: white;
+}
+
+#ctf{
+    height: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

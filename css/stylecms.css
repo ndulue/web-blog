@@ -1,0 +1,222 @@
+.navbar{
+    border-radius: 0px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+.navbar-left a{
+    color: white;
+    font-size: 16px;
+}
+.navbar-right i{
+    color: white;
+    margin: auto;
+}
+#admincont a{
+    color: white;
+}
+#admincont a span{
+    color: rgb(0, 140, 255);
+}
+#con a{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: white;
+}
+#con a span{
+    color: rgb(0, 140, 255);
+}
+header{
+    background-color: rgb(0, 108, 198);
+    height: 50px;
+}
+header a{
+    color: white;
+}
+header #cont{
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+#cont .form-group{
+    float: right;
+    height: 20px;
+}
+#cont .form-group #text{
+    height: 25px;
+    border-radius: 0px;
+    border: 0px;
+    border-bottom: 1px solid black;
+}
+#cont .form-group #submit{
+    width: 10px;
+}
+
+#con1{
+    
+}
+
+#name b{
+    font-size: 20px;
+}
+
+.col-lg-7 {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+.col-lg-7 a{
+    color: black;
+}
+
+.col-lg-7 a h3{
+    max-width: 400px;
+}
+
+.col-lg-7 p a{
+    color: rgb(0, 108, 198);
+}
+.col-lg-7 p .date{
+    color: rgb(0, 108, 198);
+}
+.col-lg-7 p{
+    color: rgb(110, 110, 110);
+}
+.col-lg-7 .text{
+    color: rgb(40, 40, 40);
+    margin: auto;
+}
+body{
+    background-color: rgb(250, 250, 250);
+}
+#main-bar{
+    padding: 0px;
+    padding-top: 15px;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+#post-bar{
+    padding-top: 0px;
+    padding-left: 0px;
+}
+#side-bar{
+    margin-left: 0px;
+}
+#post-para{
+    max-width: 800px;
+    font-size: 16px;
+}
+
+.panel{
+    border-radius: 0px;
+}
+.panel-info .panel-heading{
+    background-color: black;
+    color: white;
+    border-radius: 0px;
+}
+.panel-info{
+    border-color: black;
+}
+
+.panel-body button{
+    border-radius: 0px;
+    background-color: rgb(0, 108, 198);
+}
+
+.panel-body input{
+    border-radius: 0px;
+}
+
+#icon a{
+    color: rgb(0, 108, 198);
+}
+kbd{
+    background-color: rgb(0, 108, 198);
+}
+
+#by{
+    padding: 0px !important;
+    margin: 0px !important;
+    background-color: black;
+}
+#about{
+    padding: 10px;
+    color: white;
+}
+
+#form{
+    margin: 10px;
+    margin-top: 180px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+}
+
+#form input{
+    border-radius: 0px;
+}
+
+footer{
+    background-color: rgb(80, 80, 80);
+    color: white;
+}
+footer #fi{
+    color: black;
+}
+
+#login{
+    background-image: url('../img/lights.jpg');
+}
+
+#addpost{
+    margin-top: 80px;
+    border: 3px solid black;
+    padding: 30px;
+}
+
+#author{
+    color: rgb(110, 110, 110);
+}
+
+#author span{
+    color: black;
+}
+#twitter{
+    color: skyblue;
+}
+#fb{
+    color: blue
+}
+#gp{
+    color:orangered;
+}
+#enve{
+    color: darkcyan;
+}
+
+#share span{
+    font-size: 20px;
+}
+
+#share{
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+}
+
+ul .nav li a:hover{
+    background-color: green;
+    color:red;
+}
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+  text-decoration: none;
+  background-color: red;
+}
+
+
+
+
